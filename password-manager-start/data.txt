@@ -1,0 +1,6 @@
+{
+    "asdasd": {
+        "email": "example@gmail.com",
+        "password": "bm&fBI)tt5w6"
+    }
+}
